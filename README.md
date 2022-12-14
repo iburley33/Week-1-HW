@@ -1,5 +1,4 @@
 # Horiseon Refactor 
-## Table of contents
  
 ## Description
 Technology used
@@ -7,9 +6,10 @@ Technology used
 2. css
 
 ## Purpose
-its a refactor
-## Challenges 
+It's a refactor.
 
+## Challenges 
+Added semantic tags for accessability purposes.
 
 
 
